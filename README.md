@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @umer-sufyan
 - 👀 I’m interested in ... Mobile App Development iOS / Android
-- 🌱 I’m currently learning ... new things for me :) AR and VR
+- 🌱 I’m currently Exploring ... new things for me :) AR and VR
 - 💞️ I’m looking to collaborate on ... complex algorithm
 - 📫 How to reach me ... https://www.linkedin.com/in/umer-sufyan-048b1413
 
